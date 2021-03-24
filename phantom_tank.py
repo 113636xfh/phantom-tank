@@ -81,7 +81,7 @@ class Mk_tank():
         lock = Lock()
         #print(lock)
         mat_in, mat_out = self.set_mat(self.img_out,self.img_in)
-        while (mat_in - 10 > mat_out).any():
+        while (mat_in + 20 > mat_out).any():
             mat_out += 10
         h = mat_out.max()
         mat_in /= h/255

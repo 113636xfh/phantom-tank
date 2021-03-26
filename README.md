@@ -9,7 +9,7 @@
 
 plus：程序会自动调整输入图片大小，格式，最后输出png格式
 
-我是在ubuntu调试的，windows可能需要一些调整，方法如下
+我是在ubuntu调试的，windows可能需要一些调整，方法如下：
 进程池中是不会抱错的，先改为下图，debug后改回来
 ![图片](https://user-images.githubusercontent.com/67435618/112637323-fbffd800-8e78-11eb-8675-5e99126792f4.png)
 

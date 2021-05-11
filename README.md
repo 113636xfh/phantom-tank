@@ -16,5 +16,5 @@ plus：程序会自动调整输入图片大小，格式，最后输出png格式
 
 ![图片](https://user-images.githubusercontent.com/67435618/112637323-fbffd800-8e78-11eb-8675-5e99126792f4.png)
 
-通常可能是37行的函数在windows下读取到的目录格式不同造成的，可修改第35行为
+通常可能是37行的函数在windows下读取到的目录格式不同造成的，可修改第37行为
 ![2021-03-26 21-40-18 的屏幕截图](https://user-images.githubusercontent.com/67435618/112640043-ec35c300-8e7b-11eb-9e96-48bd5d8890aa.png)
